@@ -1,0 +1,22 @@
+{
+  "name": "dualshock-sumobot",
+  "version": "1.0.0",
+  "description": "Sumo bot controlled by a dualshock controller",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/liamwooding/dualshock-sumobot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liamwooding/dualshock-sumobot/issues"
+  },
+  "homepage": "https://github.com/liamwooding/dualshock-sumobot",
+  "dependencies": {
+    "dualshock-controller": "^0.6.7"
+  }
+}
