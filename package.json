@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/liamwooding/dualshock-sumobot",
   "dependencies": {
-    "dualshock-controller": "^0.6.7"
+    "dualshock-controller": "^0.6.7",
+    "johnny-five": "^0.8.44"
   }
 }
